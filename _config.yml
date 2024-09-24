@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Di Qiu（邱荻）"
-  avatar           : "qiudi.png"
-  bio              : "Peking University"
-  location         : "China Beijing"
+  name             : "Wenyan Luo（罗文言）"
+  avatar           : #"qiudi.png"
+  bio              : "Tianjin University"
+  location         : "China Tianjin"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QiuDi233"
+  github           : "https://github.com/AN5990"
   google_plus      :
   keybase          :
   instagram        :
